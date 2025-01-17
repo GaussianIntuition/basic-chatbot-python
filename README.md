@@ -27,7 +27,7 @@ Clone this repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/GaussianIntuition/jarvis-voice-assistant.git
+git clone https://github.com/GaussianIntuition/basic-chatbot-python.git
 cd jarvis-voice-assistant
 Install the necessary dependencies as mentioned above.
 
